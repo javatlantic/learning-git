@@ -1,6 +1,6 @@
 
 
-public class Test {
+public class utils {
 
 
  private String testType;
@@ -15,7 +15,7 @@ public class Test {
  private String testfallResult;
 
  // falsche Klassename, utils.java instead Test
- public Test (){
+ public utils (){
 
  }
  
