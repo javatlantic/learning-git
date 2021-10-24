@@ -12,7 +12,7 @@ public class Test {
 
  private String exprectedResult;
  private String currentResult;
- private testfallResult;
+ private String testfallResult;
 
  public Test (){
 
