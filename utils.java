@@ -18,7 +18,10 @@ public class Test {
 
  }
  
- public testRebase () {
+ public void testRebase () {
+ }
+ 
+ public void testRebase2() {
  }
 
 }
