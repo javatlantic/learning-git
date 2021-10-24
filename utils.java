@@ -14,6 +14,7 @@ public class Test {
  private String currentResult;
  private String testfallResult;
 
+ // falsche Klassename, utils.java instead Test
  public Test (){
 
  }
