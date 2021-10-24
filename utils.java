@@ -17,6 +17,9 @@ public class Test {
  public Test (){
 
  }
+ 
+ public testRebase () {
+ }
 
 }
 
